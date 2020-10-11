@@ -1,6 +1,6 @@
 # badhon
 
-A new Flutter project.
+A Flutter MiCard project created for learning purpose.
 
 ## Getting Started
 
